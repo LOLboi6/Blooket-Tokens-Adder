@@ -35,4 +35,4 @@ async function addCurrencies() {
 
 };
 
-addCurrencies();
+addCurrencies(11111);
